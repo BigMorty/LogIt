@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LogIt": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
